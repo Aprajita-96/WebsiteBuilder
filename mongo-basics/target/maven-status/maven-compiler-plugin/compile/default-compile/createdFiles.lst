@@ -1,0 +1,11 @@
+com\assignment\mongobasics\service\MovieService.class
+com\assignment\mongobasics\Config.class
+com\assignment\mongobasics\MongoBasicsApplication.class
+com\assignment\mongobasics\controller\MovieController.class
+com\assignment\mongobasics\model\Users.class
+com\assignment\mongobasics\repository\OrderedRepo.class
+com\assignment\mongobasics\model\OrderedItems.class
+com\assignment\mongobasics\SomeFilter.class
+com\assignment\mongobasics\repository\FoodDatabase.class
+com\assignment\mongobasics\model\Movie.class
+com\assignment\mongobasics\repository\LoginRepo.class
