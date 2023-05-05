@@ -1,5 +1,5 @@
 # WebsiteBuilder
 
 
-Frontend - ReactJS
-Backend - NodeJS
+- Frontend: ReactJS
+- Backend : NodeJS
